@@ -16,10 +16,14 @@
             <a href="#services" onclick=$("#menu-close").click();>Services</a>
         </li>
         <li>
-            <a href="#portfolio" onclick=$("#menu-close").click();>Portfolio</a>
+            <a href="#tournois" onclick=$("#menu-close").click();>Portfolio</a>
         </li>
         <li>
             <a href="#contact" onclick=$("#menu-close").click();>Contact</a>
+        </li>
+        <hr>
+        <li>
+            <a href="contact.php">Contact</a>
         </li>
     </ul>
 </nav>

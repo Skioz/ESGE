@@ -16,7 +16,7 @@
 
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
-
+    <link href="css/pricing.css" rel="stylesheet">
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
@@ -125,7 +125,7 @@
     </aside>
 
     <!-- Portfolio -->
-    <section id="portfolio" class="portfolio">
+    <section id="tournois" class="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
@@ -169,6 +169,71 @@
             <!-- /.row -->
         </div>
         <!-- /.container -->
+        <!-- prix -->
+            <section id="bs-pricing-five" class="bs-pricing-five p-top-100 bg-white">
+                      <div class="container">
+                          <div class="row">
+                              <div class="bs-five-area bs-radius">
+                                  <div class="col-md-3 no-padding">
+                                      <div class="bs-five">
+                                          <h6 class="text-uppercase">Starter</h6>
+                                          <h1 class="bs-caption">10<sup>€</sup></h1>
+                                          <ul>
+                                              <li><b>Entrer</b></li>
+                                          </ul>
+                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-3 no-padding">
+                                      <div class="bs-five">
+                                          <h6 class="text-uppercase">Planet</h6>
+                                          <h1 class="bs-caption"><sup>$</sup>49</h1>
+                                          <p>No Credit Cart Needed</p>
+
+                                          <ul>
+                                              <li><b>60 Free Images</b></li>
+                                              <li>Monthly Backups</li>
+                                              <li>Custom Domain</li>
+                                              <li>24/7 Customer Support</li>
+                                          </ul>
+                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-3 no-padding">
+                                      <div class="bs-five">
+                                          <h6 class="text-uppercase">Standard</h6>
+                                          <h1 class="bs-caption"><sup>$</sup>69</h1>
+                                          <p>No Credit Cart Needed</p>
+
+                                          <ul>
+                                              <li><b>60 Free Images</b></li>
+                                              <li>Monthly Backups</li>
+                                              <li>Custom Domain</li>
+                                              <li>24/7 Customer Support</li>
+                                          </ul>
+                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
+                                      </div>
+                                  </div>
+                                  <div class="col-md-3 no-padding">
+                                      <div class="bs-five">
+                                          <h6 class="text-uppercase">Business</h6>
+                                          <h1 class="bs-caption"><sup>$</sup>89</h1>
+                                          <p>No Credit Cart Needed</p>
+
+                                          <ul>
+                                              <li><b>60 Free Images</b></li>
+                                              <li>Monthly Backups</li>
+                                              <li>Custom Domain</li>
+                                              <li>24/7 Customer Support</li>
+                                          </ul>
+                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </section>
+        <!-- /.prix -->
     </section>
 
     <!-- Call to Action -->
