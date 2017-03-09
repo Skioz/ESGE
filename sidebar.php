@@ -21,9 +21,15 @@
         <li>
             <a href="#contact" onclick=$("#menu-close").click();>Contact</a>
         </li>
-        <hr>
+        <li class="sidebar-brand">
+            <a><h1>Menu</h1></a>
+            <hr>
+        </li>
         <li>
             <a href="contact.php">Contact</a>
+        </li>
+        <li>
+            <a href="index.php">Accueil</a>
         </li>
     </ul>
 </nav>

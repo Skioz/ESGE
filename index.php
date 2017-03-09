@@ -13,7 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
+    <link href="css/portfolio.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="css/stylish-portfolio.css" rel="stylesheet">
     <link href="css/pricing.css" rel="stylesheet">
@@ -103,10 +103,6 @@
                                 <a href="#" class="btn btn-light">Learn More</a>
                             </div>
                         </div>
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
                     </div>
                     <!-- /.row (nested) -->
                 </div>
@@ -117,52 +113,69 @@
         <!-- /.container -->
     </section>
 
-    <!-- Callout -->
+    <!-- Callout
     <aside class="callout">
         <div class="text-vertical-center">
             <h1>Vertically Centered Text</h1>
         </div>
-    </aside>
+    </aside> -->
 
     <!-- Portfolio -->
+
     <section id="tournois" class="portfolio">
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
                     <h2>Principaux tournois</h2>
-                    <hr class="small">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="articleoverwatch.php">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-1.jpg">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="articlelol.php">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-2.jpg">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-3.jpg">
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="portfolio-item">
-                                <a href="#">
-                                    <img class="img-portfolio img-responsive" src="img/portfolio-4.jpg">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.row (nested) -->
-                    <a href="tournois.php" class="btn btn-dark">View More Items</a>
+                            <hr class="small">
+                              <div class="row story-hover">
+                                <div class="col-md-6">
+                                  <div class="story">
+                                    <a class="overlay" href="#">
+                                      <span class="story-content">
+                                        <img src="img/overwatch.png" class="perso">
+                                      </span>
+                                      <img src="img/portfolio-1.jpg" class="img-responsive" alt="about">
+                                    </a>
+                                  </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                  <div class="story">
+                                    <a class="overlay" href="#">
+                                      <span class="story-content">
+                                        <img src="img/lol.png" class="perso">
+                                      </span>
+                                      <img src="img/portfolio-2.jpg" class="img-responsive" alt="about">
+                                    </a>
+                                  </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                  <div class="story">
+                                    <a class="overlay" href="#">
+                                      <span class="story-content">
+                                        <img src="img/Hearthstone Logo.png" class="perso">
+                                      </span>
+                                      <img src="img/portfolio-3.jpg" class="img-responsive" alt="about">
+                                    </a>
+                                  </div>
+                                </div>
+
+                                <div class="col-md-6">
+                                  <div class="story">
+                                    <a class="overlay" href="#">
+                                      <span class="story-content">
+                                        <img src="img/cs-go.png" class="perso">
+                                      </span>
+                                      <img src="img/portfolio-4.jpg" class="img-responsive" alt="about">
+                                    </a>
+                                  </div>
+                                </div>
+
+                              </div>
+                    <!-- /.hover -->
+                    <br><br><a href="tournois.php" class="btn btn-dark">View More Items</a>
                 </div>
                 <!-- /.col-lg-10 -->
             </div>
@@ -178,8 +191,12 @@
                                       <div class="bs-five">
                                           <h6 class="text-uppercase">Starter</h6>
                                           <h1 class="bs-caption">10<sup>€</sup></h1>
+                                          <p>No Credit Cart Needed</p>
                                           <ul>
-                                              <li><b>Entrer</b></li>
+                                              <li><b>25 Free Images</b></li>
+                                              <li>Custom Domain</li>
+                                              <li>24/7 Customer Support</li>
+                                              <li> </li>
                                           </ul>
                                           <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
                                       </div>
@@ -187,7 +204,7 @@
                                   <div class="col-md-3 no-padding">
                                       <div class="bs-five">
                                           <h6 class="text-uppercase">Planet</h6>
-                                          <h1 class="bs-caption"><sup>$</sup>49</h1>
+                                          <h1 class="bs-caption">49<sup>€</sup></h1>
                                           <p>No Credit Cart Needed</p>
 
                                           <ul>
@@ -202,7 +219,7 @@
                                   <div class="col-md-3 no-padding">
                                       <div class="bs-five">
                                           <h6 class="text-uppercase">Standard</h6>
-                                          <h1 class="bs-caption"><sup>$</sup>69</h1>
+                                          <h1 class="bs-caption">69<sup>€</sup></h1>
                                           <p>No Credit Cart Needed</p>
 
                                           <ul>
@@ -217,7 +234,7 @@
                                   <div class="col-md-3 no-padding">
                                       <div class="bs-five">
                                           <h6 class="text-uppercase">Business</h6>
-                                          <h1 class="bs-caption"><sup>$</sup>89</h1>
+                                          <h1 class="bs-caption">89<sup>€</sup></h1>
                                           <p>No Credit Cart Needed</p>
 
                                           <ul>
@@ -251,8 +268,8 @@
 
     <!-- Map -->
     <section id="contact" class="map">
-        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
-        <br />
+      <iframe  width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2625.3727663067957!2d2.2866705228560504!3d48.85110175177468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6701b487a1783%3A0x94495699bb108d09!2sECE+Tech!5e0!3m2!1sfr!2sfr!4v1488978348531"></iframe>
+      <br />
         <small>
             <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
         </small>
