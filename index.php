@@ -191,61 +191,61 @@
                           <div class="bs-five-area bs-radius">
                               <div class="col-md-3 no-padding">
                                   <div class="bs-five">
-                                      <h6 class="text-uppercase">Starter</h6>
+                                      <h6 class="text-uppercase">PNJ</h6>
+                                      <h1 class="bs-caption">5<sup>€</sup></h1>
+                                      <p></p>
+                                      <ul>
+                                          <li><i><b>1 entrée</b></i></li>
+                                          <li><s>Pass VIP</s></li>
+                                          <li><s>Accès aux tournois</s></li>
+                                          <li><b>Accès aux stand de goodies</b></li>
+                                      </ul>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
+                                  </div>
+                              </div>
+                              <div class="col-md-3 no-padding">
+                                  <div class="bs-five">
+                                      <h6 class="text-uppercase">Companion</h6>
+                                      <h1 class="bs-caption">15<sup>€</sup></h1>
+                                      <p></p>
+
+                                      <ul>
+                                        <li><i><b>1 entrée</b></i></li>
+                                        <li><b>Pass VIP</b></li>
+                                        <li><s>Accès aux tournois</s></li>
+                                        <li><b>Accès aux stand de goodies</b></li>
+                                      </ul>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
+                                  </div>
+                              </div>
+                              <div class="col-md-3 no-padding">
+                                  <div class="bs-five">
+                                      <h6 class="text-uppercase">Aventurier</h6>
                                       <h1 class="bs-caption">10<sup>€</sup></h1>
-                                      <p>No Credit Cart Needed</p>
+                                      <p></p>
+
                                       <ul>
-                                          <li><b>25 Free Images</b></li>
-                                          <li>Custom Domain</li>
-                                          <li>24/7 Customer Support</li>
-                                          <li> </li>
+                                        <li><i><b>1 entrée</b></i></li>
+                                        <li><s>Pass VIP</s></li>
+                                        <li><b>Accès aux tournois</b></li>
+                                        <li><b>Accès aux stand de goodies</b></li>
                                       </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
                                   </div>
                               </div>
                               <div class="col-md-3 no-padding">
                                   <div class="bs-five">
-                                      <h6 class="text-uppercase">Planet</h6>
-                                      <h1 class="bs-caption">49<sup>€</sup></h1>
-                                      <p>No Credit Cart Needed</p>
+                                      <h6 class="text-uppercase">Boss final</h6>
+                                      <h1 class="bs-caption">20<sup>€</sup></h1>
+                                      <p></p>
 
                                       <ul>
-                                          <li><b>60 Free Images</b></li>
-                                          <li>Monthly Backups</li>
-                                          <li>Custom Domain</li>
-                                          <li>24/7 Customer Support</li>
+                                        <li><i><b>1 entrée</b></i></li>
+                                        <li><b>Pass VIP</b></li>
+                                        <li><b>Accès aux tournois</b></li>
+                                        <li><b>Accès aux stand de goodies</b></li>
                                       </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
-                                  </div>
-                              </div>
-                              <div class="col-md-3 no-padding">
-                                  <div class="bs-five">
-                                      <h6 class="text-uppercase">Standard</h6>
-                                      <h1 class="bs-caption">69<sup>€</sup></h1>
-                                      <p>No Credit Cart Needed</p>
-
-                                      <ul>
-                                          <li><b>60 Free Images</b></li>
-                                          <li>Monthly Backups</li>
-                                          <li>Custom Domain</li>
-                                          <li>24/7 Customer Support</li>
-                                      </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
-                                  </div>
-                              </div>
-                              <div class="col-md-3 no-padding">
-                                  <div class="bs-five">
-                                      <h6 class="text-uppercase">Business</h6>
-                                      <h1 class="bs-caption">89<sup>€</sup></h1>
-                                      <p>No Credit Cart Needed</p>
-
-                                      <ul>
-                                          <li><b>60 Free Images</b></li>
-                                          <li>Monthly Backups</li>
-                                          <li>Custom Domain</li>
-                                          <li>24/7 Customer Support</li>
-                                      </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
                                   </div>
                               </div>
                           </div>
