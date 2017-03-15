@@ -172,22 +172,9 @@
                                     </a>
                                   </div>
                                 </div>
-
-                                <div class="col-md-6">
-                                  <div class="story">
-                                    <a class="overlay" href="#">
-                                      <span class="story-content">
-                                        <img src="img/fifa.png" class="perso">
-                                      </span>
-                                      <img src="img/portfolio-5.jpg" class="img-responsive" alt="about">
-                                    </a>
-                                  </div>
-                                </div>
-
                               </div>
                               </div>
                     <!-- /.hover -->
-                    <br><br><a href="tournois.php" class="btn btn-dark">Voir la liste de tous les tournois</a>
                 </div>
                 <!-- /.col-lg-10 -->
             </div>
@@ -212,7 +199,7 @@
                                           <li><s>Accès aux tournois</s></li>
                                           <li><b>Accès aux stand de goodies</b></li>
                                       </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
+                                      <a href="http://prestashop:81/accueil/17-13-pack-companion.html" class="btn btn-success btn-round m-top-40">Je Veux !</a>
                                   </div>
                               </div>
                               <div class="col-md-4 no-padding">
@@ -227,7 +214,7 @@
                                         <li><b>Accès aux tournois</b></li>
                                         <li><b>Accès aux stand de goodies</b></li>
                                       </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
+                                      <a href="http://prestashop:81/accueil/15-9-pack-companion.html" class="btn btn-success btn-round m-top-40">Je Veux !</a>
                                   </div>
                               </div>
                               <div class="col-md-4 no-padding">
@@ -242,7 +229,7 @@
                                         <li><b>Accès aux tournois</b></li>
                                         <li><b>Accès aux stand de goodies</b></li>
                                       </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
+                                      <a href="http://prestashop:81/accueil/14-5-pack-companion.html" class="btn btn-success btn-round m-top-40">Je Veux !</a>
                                   </div>
                               </div>
                           </div>
