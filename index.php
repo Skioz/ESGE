@@ -173,6 +173,18 @@
                                   </div>
                                 </div>
 
+                                <div class="col-md-6">
+                                  <div class="story">
+                                    <a class="overlay" href="#">
+                                      <span class="story-content">
+                                        <img src="img/fifa.png" class="perso">
+                                      </span>
+                                      <img src="img/portfolio-5.jpg" class="img-responsive" alt="about">
+                                    </a>
+                                  </div>
+                                </div>
+
+                              </div>
                               </div>
                     <!-- /.hover -->
                     <br><br><a href="tournois.php" class="btn btn-dark">Voir la liste de tous les tournois</a>
