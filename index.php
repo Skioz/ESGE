@@ -285,8 +285,8 @@
                     <p>10 Rue Sextius Michel
                         <br>75015 Paris</p>
                     <ul class="list-unstyled">
-                        <li><i class="fa fa-phone fa-fw"></i> (123) 456-7890</li>
-                        <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:name@example.com">name@example.com</a>
+                        <li><i class="fa fa-phone fa-fw"></i> (à définir)</li>
+                        <li><i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:ESG.Entreprise@gmail.com">ESG.Entreprise@gmail.com</a>
                         </li>
                     </ul>
                     <br>
@@ -302,7 +302,7 @@
                         </li>
                     </ul>
                     <hr class="small">
-                    <p class="text-muted">Copyright &copy; Your Website 2014</p>
+                    <p class="text-muted">Copyright &copy; ESGE 2017</p>
                 </div>
             </div>
         </div>

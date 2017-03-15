@@ -4,19 +4,16 @@
     <ul class="sidebar-nav">
         <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
         <li class="sidebar-brand">
-            <a href="#top" onclick=$("#menu-close").click();>Start Bootstrap</a>
+            <a href="#top" onclick=$("#menu-close").click();>E-Sport Gaming</a>
         </li>
         <li>
-            <a href="#top" onclick=$("#menu-close").click();>Home</a>
-        </li>
-        <li>
-            <a href="#about" onclick=$("#menu-close").click();>About</a>
+            <a href="#about" onclick=$("#menu-close").click();>Découvrir</a>
         </li>
         <li>
             <a href="#services" onclick=$("#menu-close").click();>Services</a>
         </li>
         <li>
-            <a href="#tournois" onclick=$("#menu-close").click();>Portfolio</a>
+            <a href="#tournois" onclick=$("#menu-close").click();>Tournois</a>
         </li>
         <li>
             <a href="#contact" onclick=$("#menu-close").click();>Contact</a>
