@@ -126,7 +126,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <h2>Principaux tournois</h2>
+                    <h2><FONT face="Mystery Quest"> <I><B>~ Principaux Tournois ~</B></I> </FONT></h2>
                             <hr class="small">
                               <div class="row story-hover">
                                 <div class="col-md-6">
@@ -175,84 +175,84 @@
 
                               </div>
                     <!-- /.hover -->
-                    <br><br><a href="tournois.php" class="btn btn-dark">View More Items</a>
+                    <br><br><a href="tournois.php" class="btn btn-dark">Voir la liste de tous les tournois</a>
                 </div>
                 <!-- /.col-lg-10 -->
             </div>
             <!-- /.row -->
         </div>
         <!-- /.container -->
-        <!-- prix -->
-            <section id="bs-pricing-five" class="bs-pricing-five p-top-100 bg-white">
-                      <div class="container">
-                          <div class="row">
-                              <div class="bs-five-area bs-radius">
-                                  <div class="col-md-3 no-padding">
-                                      <div class="bs-five">
-                                          <h6 class="text-uppercase">Starter</h6>
-                                          <h1 class="bs-caption">10<sup>€</sup></h1>
-                                          <p>No Credit Cart Needed</p>
-                                          <ul>
-                                              <li><b>25 Free Images</b></li>
-                                              <li>Custom Domain</li>
-                                              <li>24/7 Customer Support</li>
-                                              <li> </li>
-                                          </ul>
-                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
-                                      </div>
-                                  </div>
-                                  <div class="col-md-3 no-padding">
-                                      <div class="bs-five">
-                                          <h6 class="text-uppercase">Planet</h6>
-                                          <h1 class="bs-caption">49<sup>€</sup></h1>
-                                          <p>No Credit Cart Needed</p>
 
-                                          <ul>
-                                              <li><b>60 Free Images</b></li>
-                                              <li>Monthly Backups</li>
-                                              <li>Custom Domain</li>
-                                              <li>24/7 Customer Support</li>
-                                          </ul>
-                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
-                                      </div>
+    </section>
+    <!-- prix -->
+        <section id="bs-pricing-five" class="bs-pricing-five p-top-100 bg-white">
+                  <div class="container">
+                      <div class="row">
+                          <div class="bs-five-area bs-radius">
+                              <div class="col-md-3 no-padding">
+                                  <div class="bs-five">
+                                      <h6 class="text-uppercase">Starter</h6>
+                                      <h1 class="bs-caption">10<sup>€</sup></h1>
+                                      <p>No Credit Cart Needed</p>
+                                      <ul>
+                                          <li><b>25 Free Images</b></li>
+                                          <li>Custom Domain</li>
+                                          <li>24/7 Customer Support</li>
+                                          <li> </li>
+                                      </ul>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
                                   </div>
-                                  <div class="col-md-3 no-padding">
-                                      <div class="bs-five">
-                                          <h6 class="text-uppercase">Standard</h6>
-                                          <h1 class="bs-caption">69<sup>€</sup></h1>
-                                          <p>No Credit Cart Needed</p>
+                              </div>
+                              <div class="col-md-3 no-padding">
+                                  <div class="bs-five">
+                                      <h6 class="text-uppercase">Planet</h6>
+                                      <h1 class="bs-caption">49<sup>€</sup></h1>
+                                      <p>No Credit Cart Needed</p>
 
-                                          <ul>
-                                              <li><b>60 Free Images</b></li>
-                                              <li>Monthly Backups</li>
-                                              <li>Custom Domain</li>
-                                              <li>24/7 Customer Support</li>
-                                          </ul>
-                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
-                                      </div>
+                                      <ul>
+                                          <li><b>60 Free Images</b></li>
+                                          <li>Monthly Backups</li>
+                                          <li>Custom Domain</li>
+                                          <li>24/7 Customer Support</li>
+                                      </ul>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
                                   </div>
-                                  <div class="col-md-3 no-padding">
-                                      <div class="bs-five">
-                                          <h6 class="text-uppercase">Business</h6>
-                                          <h1 class="bs-caption">89<sup>€</sup></h1>
-                                          <p>No Credit Cart Needed</p>
+                              </div>
+                              <div class="col-md-3 no-padding">
+                                  <div class="bs-five">
+                                      <h6 class="text-uppercase">Standard</h6>
+                                      <h1 class="bs-caption">69<sup>€</sup></h1>
+                                      <p>No Credit Cart Needed</p>
 
-                                          <ul>
-                                              <li><b>60 Free Images</b></li>
-                                              <li>Monthly Backups</li>
-                                              <li>Custom Domain</li>
-                                              <li>24/7 Customer Support</li>
-                                          </ul>
-                                          <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
-                                      </div>
+                                      <ul>
+                                          <li><b>60 Free Images</b></li>
+                                          <li>Monthly Backups</li>
+                                          <li>Custom Domain</li>
+                                          <li>24/7 Customer Support</li>
+                                      </ul>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
+                                  </div>
+                              </div>
+                              <div class="col-md-3 no-padding">
+                                  <div class="bs-five">
+                                      <h6 class="text-uppercase">Business</h6>
+                                      <h1 class="bs-caption">89<sup>€</sup></h1>
+                                      <p>No Credit Cart Needed</p>
+
+                                      <ul>
+                                          <li><b>60 Free Images</b></li>
+                                          <li>Monthly Backups</li>
+                                          <li>Custom Domain</li>
+                                          <li>24/7 Customer Support</li>
+                                      </ul>
+                                      <a href="#0" class="btn btn-success btn-round m-top-40">Buy Now</a>
                                   </div>
                               </div>
                           </div>
                       </div>
-                  </section>
-        <!-- /.prix -->
-    </section>
-
+                  </div>
+              </section>
+    <!-- /.prix -->
     <!-- Call to Action -->
     <aside class="call-to-action bg-primary">
         <div class="container">

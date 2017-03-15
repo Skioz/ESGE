@@ -3,7 +3,7 @@
 }
 
 .story-hover .story {
-    background: #737373;
+    background: rgba(0, 0, 0, 0.56);
     display: inline-block;
 }
 .story-hover .story .overlay {
