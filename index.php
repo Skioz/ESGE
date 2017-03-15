@@ -37,7 +37,7 @@
     <!-- Header -->
     <header id="top" class="header">
         <div class="text-vertical-center">
-            <a href="#about" class="btn btn-dark btn-lg">Découvrir</a>
+            <a href="prestashop" class="btn btn-dark btn-lg">Boutique</a>
         </div>
     </header>
 
@@ -201,7 +201,7 @@
                   <div class="container">
                       <div class="row">
                           <div class="bs-five-area bs-radius">
-                              <div class="col-md-3 no-padding">
+                              <div class="col-md-4 no-padding">
                                   <div class="bs-five">
                                       <h6 class="text-uppercase">PNJ</h6>
                                       <h1 class="bs-caption">5<sup>€</sup></h1>
@@ -215,22 +215,7 @@
                                       <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
                                   </div>
                               </div>
-                              <div class="col-md-3 no-padding">
-                                  <div class="bs-five">
-                                      <h6 class="text-uppercase">Companion</h6>
-                                      <h1 class="bs-caption">15<sup>€</sup></h1>
-                                      <p></p>
-
-                                      <ul>
-                                        <li><i><b>1 entrée</b></i></li>
-                                        <li><b>Pass VIP</b></li>
-                                        <li><s>Accès aux tournois</s></li>
-                                        <li><b>Accès aux stand de goodies</b></li>
-                                      </ul>
-                                      <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
-                                  </div>
-                              </div>
-                              <div class="col-md-3 no-padding">
+                              <div class="col-md-4 no-padding">
                                   <div class="bs-five">
                                       <h6 class="text-uppercase">Aventurier</h6>
                                       <h1 class="bs-caption">10<sup>€</sup></h1>
@@ -245,7 +230,7 @@
                                       <a href="#0" class="btn btn-success btn-round m-top-40">Je Veux !</a>
                                   </div>
                               </div>
-                              <div class="col-md-3 no-padding">
+                              <div class="col-md-4 no-padding">
                                   <div class="bs-five">
                                       <h6 class="text-uppercase">Boss final</h6>
                                       <h1 class="bs-caption">20<sup>€</sup></h1>
