@@ -81,7 +81,7 @@
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i><img src="font-awesome/fonts/noun_589333_cc.svg" alt=""> </i>
+                                <i class="fa fa-cutlery fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
                                     <strong>Stand de nourriture</strong>
