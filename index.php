@@ -68,7 +68,7 @@
                             <div class="service-item">
                                 <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-youtube-play fa-stack-1x text-primary"></i>
+                                <i class="fa fa-television fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
                                     <strong>Stream</strong>
@@ -97,7 +97,7 @@
                                 <i class="fa fa-flask fa-stack-1x text-primary"></i>
                             </span>
                                 <h4>
-                                    <strong>Service Name</strong>
+                                    <strong>Vente de goodies</strong>
                                 </h4>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                                 <a href="#" class="btn btn-light">Learn More</a>
